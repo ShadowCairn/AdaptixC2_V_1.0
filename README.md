@@ -2,6 +2,8 @@
 
 This project is AdaptixC2 version 1.0, comprising source code, compiled AdaptixServer files, and compiled AdaptixClient files. It is intended solely for personal study and research purposes; no file passwords will be provided to any party.
 
+Use BindiZip for extraction.
+
 ## Links
 - AdaptixC2: https://github.com/Adaptix-Framework/AdaptixC2
 - Extension: https://github.com/Adaptix-Framework/Extension-Kit
